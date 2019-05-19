@@ -3,7 +3,7 @@
  3 STRAWBERRY MANGO PINK COOLER  Pianissimo  FlavorLine
  4 MIX GREEN COOLER              MEVIUS      FlavorLine
  5 MENTHOL                       MEVIUS      Menthol
- 6 
+ 6 REGULAR                       MEVIUS      RegularTaste
  7 
  8 
  9 
