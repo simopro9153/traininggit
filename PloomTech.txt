@@ -1,0 +1,10 @@
+１  BROWN AROMA                   MEVIUS      RegularTaste
+２  RED COOLER                    MEVIUS      FlavorLine
+３  STRAWBERRY MANGO PINK COOLER  Pianissimo  FlavorLine
+４  MIX GREEN COOLER              MEVIUS      FlavorLine
+５  MENTHOL                       MEVIUS      Menthol
+６ 
+７ 
+８ 
+９ 
+10 
